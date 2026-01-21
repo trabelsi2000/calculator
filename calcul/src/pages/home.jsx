@@ -3,7 +3,6 @@ import { Dialog } from "primereact/dialog";
 import React, { useEffect, useState, useRef } from "react";
 import { ConfirmDialog, confirmDialog } from "primereact/confirmdialog";
 import { Toast } from "primereact/toast";
-import img from "../../img/img.jpg";
 import {
   Plus,
   Trash2,
